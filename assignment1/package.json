@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+  	"node",
+	  "heroku"
+  ],
   "author": "Elizabeth Hesse",
   "license": "ISC",
   "dependencies": {
@@ -13,4 +17,6 @@
     "consolidate": "^0.15.0",
     "express-handlebars": "^3.0.0",
     "mustache": "^2.3.0"
-  }
+  },
+ "license" : "MIT"
+}
