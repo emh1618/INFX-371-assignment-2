@@ -8,7 +8,8 @@
   },
   "keywords": [
   	"node",
-	  "heroku"
+	  "heroku",
+	  "express"
   ],
   "author": "Elizabeth Hesse",
   "license": "ISC",
