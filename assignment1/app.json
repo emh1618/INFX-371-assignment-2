@@ -1,0 +1,6 @@
+{
+	"name": "INFX 371 Assignment 2",
+	"description": "deploying assignment 1 to Heroku",
+	"repository": "https://github.com/emh1618/INFX-371-assignment-2.git",
+	"keywords": ["node", "express", "static", "heroku"]
+}
